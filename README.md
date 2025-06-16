@@ -6,4 +6,4 @@
 💡 Enthusiastic about learning new tools, frameworks, and real-world applications in both software development and data analytics.<br/>
 🚀 Open to collaboration, learning, and connecting with like-minded developers and data enthusiasts!<br/>
 
-[![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasusan&count_privatee=true&show_icons=true&theme=tokyonight&hide_rank=false)]
+![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasusan&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)
